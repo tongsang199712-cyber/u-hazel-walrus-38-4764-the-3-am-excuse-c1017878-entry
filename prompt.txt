@@ -1,0 +1,5 @@
+Build a make.fun entry for the $2 bounty "The 3 AM Excuse" (slug u-hazel-walrus-38-4764-the-3-am-excuse-c1017878, deadline 2026-11-26T15:15:00Z). Account handle silver-pika-33, payout wallet 5tnWSszxtMD6YjkcUQV5jjahgnzsLfnqGtsN4EtWJ46F. Free entry, no entry fee.
+
+The task: write one line under 200 characters — the most creative excuse a hardware wallet gives for refusing to sign a transaction at 3 AM. The program (main.ts, Node) must write exactly that line to /output/entry.txt.
+
+Build in entries/u-hazel-walrus-38-4764-the-3-am-excuse-c1017878/ with main.ts, a README carrying the three make.fun badges, an MIT LICENSE, and .makefun/owner.json with the payout wallet. Verify locally that running main.ts writes the line, then create the GitHub repo, push, and submit through the official make.fun kit.
